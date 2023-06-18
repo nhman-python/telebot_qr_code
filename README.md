@@ -1,16 +1,15 @@
 # TeleBot QR Code Creator
+TeleBot QR Code Creator היא ספריית Python פשוטה המאפשרת לך ליצור קודי QR עבור בוט הטלגרם שלך. הוא מספק ממשק קל לשימוש ליצירת קודי QR שיכולים לשמש למטרות שונות בפרויקטי הבוט של Telegram שלך.
 
-TeleBot QR Code Creator is a simple Python library that allows you to generate QR codes for your Telegram bot. It provides an easy-to-use interface for creating QR codes that can be used for various purposes in your Telegram bot projects.
+## מאפיינים
 
-## Features
+- צור קודי QR עבור סוגים שונים של נתונים, כגון טקסט, כתובות URL, מספרי טלפון ועוד.
+- שלב בקלות יצירת קוד QR בפרויקטי הבוט של Telegram שלך.
+- קל משקל ופשוט לשימוש.
 
-- Generate QR codes for various types of data, such as text, URLs, phone numbers, and more.
-- Easily integrate QR code generation into your Telegram bot projects.
-- Lightweight and simple to use.
+## התקנה
 
-## Installation
-
-You can install TeleBot QR Code Creator using pip:
+אתה יכול להתקין את TeleBot QR Code Creator באמצעות pip:
 
 ```
 pip install -r requirements.txt
