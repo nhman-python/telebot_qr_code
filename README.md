@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 הרץ את הבוט
 ```
-python run.py
+python run.py run
 ```
