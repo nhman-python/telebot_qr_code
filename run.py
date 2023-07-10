@@ -1,7 +1,6 @@
 import logging
 import os
 import uuid
-from time import sleep
 import argparse
 import dotenv
 import qrcode
